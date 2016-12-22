@@ -2,8 +2,8 @@
 
 ###Table of Contence
 * [Formating](#formating)
-* [Move Cursor](#curser)
-* [Find & Select](#find-&-select)
+* [Move Cursor](#cursor)
+* [Find & Select](#find-select)
 * [Delete](#delete)
 
 ### Symbol Reference
