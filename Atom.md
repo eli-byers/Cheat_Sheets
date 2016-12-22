@@ -2,26 +2,24 @@
 
 ###Table of Contence
 * [Formating](#formating)
-* [Move Cursor](#move-curser)
+* [Move Cursor](#curser)
 * [Find & Select](#find-&-select)
 * [Delete](#delete)
 
-###Symbol Reference
+### Symbol Reference
 | Symbol       | Decsciption             |
 | -------------|-------------------------| 
 | &#x2318;     | the Command Key			 |
 | &#x2325;     | the Option Key          |
 | &#x2303;     | the Control Key         |
 | &#x21E7;     | the Shift Key           |
-| &#x232b;     | the Delete / Backspace  |
 | &#x2191;     | the Up Arrow Key        |
 | &#x2193;     | the Down Arrow Key      |
 | &#x2190;     | the Left Arrow Key      |
 | &#x2192;     | the Right Arrow Key     |
 
 
-
-###Formating
+### Formating
 | Command       | Key                     | Decsciption |
 | ------------- |-------------------------| ------------|
 | Duplicate     | &#x2318; + &#x21E7; + D | - Duplicate the line the cursor is on. <br> - If multiple lines are selected, duplicate all selected lines. |
@@ -30,7 +28,7 @@
 | Move lines up | &#x2303; + &#x2318; + &#x2191; | - Move the line the cursor is on up one line. <br> - If multiple lines are selected, move all selected lines up. |
 | Mode lines down | &#x2303; + &#x2318; + &#x2193; | - Move the line the cursor is on down one line. <br> - If multiple lines are selected, move all selected lines down.
 
-###Cursor 
+### Cursor 
 | Command       | Key                     | Decsciption |
 | ------------- |-------------------------| ------------|
 | Start of line | &#x2303; + a | - Move cursor to the beginning of the current line. |
