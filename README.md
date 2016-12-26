@@ -1,9 +1,10 @@
 # Cheat Sheets
-A repo of cheat sheets for developers, by developers
 
-###Table of Contence
-* [Terminal & Vim](Terminal.md)
-* [Atom](Atom.md)
+###Table of Contents
+* Terminal
+	* [Terminal Intro](Terminal_Intro.md)
+	* [Terminal Reference](Terminal_Reference.md)
+* [Atom Hotkeys](Atom_Hotkeys.md)
 * [Python Errors](Python_Errors.md)
 
 
