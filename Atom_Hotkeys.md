@@ -1,7 +1,7 @@
 # Atom Shortcuts
 These work on mac in Atom. This is not a complete list at all, just a small set of tools that can speed up your deveopment. [Here](https://github.com/nwinkler/atom-keyboard-shortcuts) is a more complete list of shortcuts.
 
-###Table of Contence
+###Table of Contents
 * [Formating](#formating)
 * [Move Cursor](#cursor)
 * [Find & Select](#find--select)
