@@ -1,8 +1,8 @@
-# Python errors and where to find them
+# Python errors
 
 
 
-###Table of Contence
+###Table of Contents
 * [Vanila Python](#vanila-python)
 	* [Syntax Error](#syntax-error)
 	* [Indentation Error](#indentation-error)
@@ -97,3 +97,7 @@ else:
 ## Flask
 
 ## Django
+
+<br>
+---
+<center>[Home](README.md) | [Top](#python-errors)</center>
