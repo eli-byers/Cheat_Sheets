@@ -63,8 +63,8 @@ A ```note.txt``` file on your Desktop has a path something like this: ```/Users/
 
 
 -
-### List Contence: ```ls```
-* When we are is a directory we often want to see the contence of that directory. Here are a few of the most common ways to list the items in the current directory.
+### List Contents: ```ls```
+* When we are is a directory we often want to see the contents of that directory. Here are a few of the most common ways to list the items in the current directory.
 
 	```
 	$ ls		# shows a table of visible items
