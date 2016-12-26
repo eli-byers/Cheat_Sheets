@@ -1,5 +1,5 @@
 # Django errors
-Coming soon
+Coming Soon
 
 
 <br>

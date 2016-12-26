@@ -1,5 +1,5 @@
 # Vim
-Coming soon
+Coming Soon
 
 <br>
 ---

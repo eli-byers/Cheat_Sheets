@@ -1,5 +1,5 @@
 # Bash Aliases
-Coming soon
+Coming Soon
 
 <br>
 ---
