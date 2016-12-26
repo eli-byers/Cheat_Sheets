@@ -1,5 +1,5 @@
 # Terminal
-To learn more about any specific command use the ```man``` command in your termianl. Ex. ```$ man cd ``` will show you the manuel of the ```cd``` command.
+To learn more about any specific command use the ```man``` command in your termianl. For example, ```$ man cd ``` will show you the manuel of the ```cd``` command. Type ```q``` to quit the manuel.
 
 ###Table of Contents
 * [Tutorial](#tutorial)
@@ -11,7 +11,7 @@ To learn more about any specific command use the ```man``` command in your termi
 	* [Make File](#make-file-touch)
 * [Editing](#editing)
 	* [Move & Rename](#move--rename-mv)
-	* [Remove](#remove-rm)
+	* [Delete](#delete-rm)
 * [Alias](#alias)
 
 ## Tutorial
@@ -86,16 +86,7 @@ A ```note.txt``` file on your Desktop has a path something like this: ```/Users/
 	```
 
 ### Change Directory: ```cd```
-	``` 
-	$ cd / 
-	```
-* Moves you to the root directory of your computer. All absolute file paths start from ```/```
-
-	```
-	$ cd ~
-	```
-* Moves you to your home folder. You can shorten file paths by starting from ```~```.
-* Ex. ```cd ~/Desktop``` takes you to the Desktop folder from anywhere in your computer.
+* The cd command is probably the most common command. This is how we navigate around our computer in terminal.
 
 	```
 	$ cd myDir 		# Moves you into a folder called myFolder in your current derectory
@@ -103,6 +94,17 @@ A ```note.txt``` file on your Desktop has a path something like this: ```/Users/
 	$ cd ../myDir	# Moves you into a folder called my myDir that is up one level
 	```
 
+* There are a few special directories that have shortcuts to them
+
+	``` 
+	$ cd / 		# Moves you to the root directory of your computer
+	$ cd ~ 		# Moves you to your home folder
+	```
+* All absolute file paths start from ```/```.
+* You can shorten file or directory paths by starting at ```/``` or ```~```.
+* Ex. ```cd ~/Desktop``` takes you to your Desktop directory.
+
+	
 ### Make Directory: ```mkdir```
 * We often need to create new directories. ```mkdir``` and then a name creates a new directory in your current directory. You can give the directory a path to create it somehwere else. 
 
