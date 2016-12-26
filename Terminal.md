@@ -4,15 +4,14 @@ To learn more about any specific command use the ```man``` command in your termi
 ###Table of Contents
 * [Tutorial](#tutorial)
 * [Files & Directories](#files--directories)
-	* [List Contents](#list-contents)
-	* [Print Working Directory](#print-working-directory)
-	* [Change Directory](#change-directory)
-	* [Make Directory](#make-directory)
-	* [Make File](#make-file)
+	* [List Contents](#list-contents-ls)
+	* [Print Working Directory](#print-working-directory-pwd)
+	* [Change Directory](#change-directory-cd)
+	* [Make Directory](#make-directory-mkdir)
+	* [Make File](#make-file-touch)
 * [Editing](#editing)
-	* [Remove](#remove)
-	* [Rename](#rename)
-	* [Move](#move)
+	* [Move & Rename](#move--rename-mv)
+	* [Remove](#remove-rm)
 * [Alias](#alias)
 
 ## Tutorial
