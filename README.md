@@ -2,10 +2,18 @@
 
 ###Table of Contents
 * Terminal
-	* [Terminal Intro](Terminal_Intro.md)
-	* [Terminal Reference](Terminal_Reference.md)
-* [Atom Hotkeys](Atom_Hotkeys.md)
-* [Python Errors](Python_Errors.md)
+	* [Intro](Terminal_Intro.md)
+	* [Reference](Terminal_Reference.md)
+	* [Vim](Terminal_Vim.md)
+	* [Bash Aliases](Terminal_Bash_Aliases.md)
+* Atom
+	* [Hotkeys](Atom_Hotkeys.md)
+	* [Packages](Atom_Packages.md)
+* Python
+	* [Python Errors](Python_Errors.md)
+	* [Flask Errors](Python_Errors_Flask.md)
+	* [Django Errors](Python_Errors_Django.md)
+	* [Style Guide](Python_Style_Guide.md)
 
 
 ### Contributing
