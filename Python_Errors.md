@@ -2,20 +2,19 @@
 
 
 
-###Table of Contents
-* [Vanila Python](#vanila-python)
-	* [Syntax Error](#syntax-error)
-	* [Indentation Error](#indentation-error)
-	* [Key Error](#key-error)
-	* [Attribute Error](#attribute-error) 
-* [Flask](#flask)
-* [Django](#django)
+### Table of Contents
+* [Syntax Error](#syntax-error)
+* [Indentation Error](#indentation-error)
+* [Key Error](#key-error)
+* [Attribute Error](#attribute-error) 
+
 
 ## Vanila Python
-Some errors can be easily seen in your python IDE by running code after the ```>>>```. Activate your IDE by entering ```python``` in your terminal.
+Some of these errors can be easily seen in your python IDE by running code after the ```>>>```. Activate your IDE by entering ```python``` in your terminal.
 
 -----------------------
-### Syntax Error
+<br>
+## Syntax Error
 
 * You are missing or have an extranious character somewhere. Most often it is a missing colon after an if statement or loop. Test often to catch these errors quickly.
 * See it happen: ```>>> for x in range(10)```
@@ -29,8 +28,11 @@ for x in range(10)
 SyntaxError: invalid syntax
 ```
 
-### Indentation Error
+<br>
+## Indentation Error
 * You either forgot to indent some code, or you indented a line that should not be indented. This often happend when the code in a function declaration or for loop is not indented. 
+
+##### Expected Indentation
 
 ```python
 # code looking something like this
@@ -41,6 +43,8 @@ return True
 # error you get
 IndentationError: expected an indented block
 ```
+
+##### Unexpected Indentation
 ```python
 # code looking something like this
 def myFunc():
@@ -51,7 +55,8 @@ def myFunc():
 IndentationError: unexpected indent
 ```
 
-### Key Error
+<br>
+## Key Error
 * You are trying to access a value in a dictionary by a key that doesn't exist. To avoid this error, you can validate that there is a specific key before trying to access it.
 * See it happen: ``` >>> {}['someKey'] ```
 
@@ -72,7 +77,8 @@ else:
 	someVar = 0
 ```
 
-### Attribute Error
+<br>
+## Attribute Error
 * You are assuming some variable is an object when it is actually some other type. This often happens when a function returns ```None``` do to the absence of a return statement but you are expecting an object.
 * See it happen: ``` >>> None.someAttr ```
 
@@ -94,10 +100,6 @@ else:
 	someVar = 0
 ```
 
-## Flask
-
-## Django
-
 <br>
 ---
-<center>[Home](README.md) | [Top](#python-errors)</center>
+<center>[Home](README.md) | [Top](#python-errors) </center>
