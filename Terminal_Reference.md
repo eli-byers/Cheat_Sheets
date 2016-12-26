@@ -14,7 +14,6 @@ If you are new to Terminal check out the [Terminal Intro](Terminal_Intro.md).
 * [Editing](#editing)
 	* [Move & Rename](#move--rename-mv)
 	* [Delete](#delete-rm)
-* [Alias](#alias)
 
 <br>
 ## Files & Directories
@@ -119,11 +118,9 @@ We often have the need to move, rename, or delete some file or derectory. The co
 	$ rm myFile.ext			# Removes the file myFile.ext
 	
 	# remove directory and all the files and directories it contains
-	# rm -r myDirectory		# the -r option stands for recursive, it will delete everything
+	$ rm -r myDirectory		# the -r option stands for recursive, it will delete everything
 	```
 
-## Alias
-Coming Soon
 
 <br>
 ---
