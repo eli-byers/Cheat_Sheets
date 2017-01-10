@@ -7,7 +7,7 @@
 	* [Intro](Terminal_Intro.md)
 	* [Reference](Terminal_Reference.md)
 	* [Vim](Terminal_Vim.md) *
-	* [Bash Aliases](Terminal_Bash_Aliases.md) *
+	* [Bash Aliases](Terminal_Bash_Aliases.md)
 * Atom
 	* [Hotkeys](Atom_Hotkeys.md)
 	* [Packages](Atom_Packages.md) *
