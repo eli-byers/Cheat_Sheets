@@ -124,5 +124,5 @@ We often have the need to move, rename, or delete some file or derectory. The co
 
 <br>
 ---
-<center>[Home](README.md) | [Top](#terminal-reference) | [Terminal Intro](Terminal_Intro.md)</center>
+<center>[Home](README.md) | [Top](#terminal-reference) | [Intro](Terminal_Intro.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)</center>
 
