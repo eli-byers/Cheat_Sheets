@@ -65,4 +65,5 @@ Notes    todo.txt
 
 <br>
 ---
-<center>[Home](README.md) | [Top](#intro-to-terminal) | [Terminal Reference](Terminal_Reference.md)</center>
+
+<center>[Home](README.md) | [Top](#intro-to-terminal) | [Reference](Terminal_Reference.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)</center>
