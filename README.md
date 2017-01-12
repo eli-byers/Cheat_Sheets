@@ -1,11 +1,13 @@
 # Cheat Sheets
 
+A repo of cheat sheets and guides for developers, by developers.
+
 \* Coming Soon
 
 ###Table of Contents
 * Terminal
-	* [Intro](Terminal_Intro.md)
-	* [Reference](Terminal_Reference.md)
+	* [Tutorial](Terminal_Intro.md)
+	* [Commands](Terminal_Reference.md)
 	* [Vim](Terminal_Vim.md) *
 	* [Bash Aliases](Terminal_Bash_Aliases.md)
 * Atom
