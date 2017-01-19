@@ -57,5 +57,5 @@ These work on mac in Atom. This is not a complete list at all, just a small set 
 
 <br>
 ---
-<center> [Home](README.md) | [Top](#atom-hotkeys) </center>
+<center> [Home](README.md) | [Top](#atom-hotkeys) | [Packages](Atom_Packages.md) </center>
 
