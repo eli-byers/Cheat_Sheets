@@ -12,7 +12,7 @@ A repo of cheat sheets and guides for developers, by developers.
 	* [Bash Aliases](Terminal_Bash_Aliases.md)
 * Atom
 	* [Hotkeys](Atom_Hotkeys.md)
-	* [Packages](Atom_Packages.md) *
+	* [Packages](Atom_Packages.md)
 * Python
 	* [Python Errors](Python_Errors.md)
 	* [Flask Errors](Python_Errors_Flask.md) *
