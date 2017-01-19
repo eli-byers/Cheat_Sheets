@@ -3,8 +3,8 @@ These work on mac in Atom. This is not a complete list at all, just a small set 
 
 ###Table of Contents
 * [Formating](#formating)
-* [Move Cursor](#cursor)
-* [Find & Select](#find--select)
+* [Cursor](#cursor)
+* [Find / Select](#find--select)
 * [Delete](#delete)
 
 ### Symbol Reference
