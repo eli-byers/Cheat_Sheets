@@ -6,6 +6,7 @@
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
 * [Template Does Not Exist Error](#template-does-not-exist-error) 
+
 -----------------------
 <br>
 ## Import Error
