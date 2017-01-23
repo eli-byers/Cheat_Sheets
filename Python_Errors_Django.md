@@ -5,7 +5,7 @@
 * [Import Error](#import-error)
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
-
+* [TemplateDoesNotExist Error](#TemplateDoesNotExist-error) 
 -----------------------
 <br>
 ## Import Error
@@ -28,7 +28,13 @@ ImportError: No module named urls
 
 -----------------------
 <br>
+```bash
+ImportError: No module named APPdjango.contrib
+```
+* You are missing a comma in `INSTALLED_APPS` in your settings.py file.
 
+-----------------------
+<br>
 ## Name Error
 
 ```bash
@@ -62,7 +68,29 @@ AttributeError: 'module' object has no attribute 'index'
 def index(request):
   pass
 ```
+-----------------------
+<br>
+## TemplateDoesNotExist Error
+```
+TemplateDoesNotExist at /
+```
 
+* You could have a problem with your templates directory. The correct format is `apps/APPNAME/templates/APPNAME/index.html`.
+
+```bash
+mkdir apps/APPNAME/templates
+mkdir apps/APPNAME/templates/APPNAME
+touch apps/APPNAME/templates/APPNAME/index.html
+```
+
+* You could have forgotten to add your app to the `INSTALLED_APPS` in settings.py.
+
+```python
+INSTALLED_APPS = [
+    'apps.APPNAME',
+    'django.contrib.admin',
+]
+```
 
 <br>
 ---
