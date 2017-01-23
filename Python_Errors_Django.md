@@ -5,7 +5,7 @@
 * [Import Error](#import-error)
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
-* [Template Does Not Exist Error](#template-does-not-exist-error) 
+* [TemplateDoesNotExist Error](#TemplateDoesNotExist-error) 
 
 -----------------------
 <br>
@@ -71,7 +71,7 @@ def index(request):
 ```
 -----------------------
 <br>
-## Template Does Not Exist Error
+## TemplateDoesNotExist Error
 ```
 TemplateDoesNotExist at /
 ```
