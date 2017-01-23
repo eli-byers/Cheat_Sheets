@@ -5,7 +5,7 @@
 * [Import Error](#import-error)
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
-* [TemplateDoesNotExist Error](#TemplateDoesNotExist-error) 
+* [TemplateDoesNotExist Error](#templatedoesnotexist-error) 
 
 -----------------------
 <br>
