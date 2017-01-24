@@ -16,7 +16,7 @@ A repo of cheat sheets and guides for developers, by developers.
 * Python
 	* [Python Errors](Python_Errors.md)
 	* [Flask Errors](Python_Errors_Flask.md) *
-	* [Django Errors](Python_Errors_Django.md) *
+	* [Django Errors](Python_Errors_Django.md)
 	* [Style Guide](Python_Style_Guide.md) *
 
 
