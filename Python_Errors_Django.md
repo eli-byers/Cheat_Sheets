@@ -5,7 +5,8 @@
 * [Import Error](#import-error)
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
-* [TemplateDoesNotExist Error](#templatedoesnotexist-error) 
+* [TemplateDoesNotExist Error](#templatedoesnotexist-error)
+* [Forbidden 403](#forbidden-403)
 
 -----------------------
 <br>
@@ -91,6 +92,19 @@ INSTALLED_APPS = [
     'apps.APPNAME',
     'django.contrib.admin',
 ]
+`-----------------------
+<br>``
+## Forbidden 403
+```
+Forbidden (403)
+CSRF verification failed. Request aborted.
+```
+* You CSRF token is missing or incorrect.
+```html
+<form action="/logout" method="post">
+  {% csrf_token %}
+  <input type="submit" value="Log out">
+</form>
 ```
 
 <br>
