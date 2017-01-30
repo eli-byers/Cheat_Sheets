@@ -5,7 +5,10 @@
 * [Import Error](#import-error)
 * [Name Error](#name-error)
 * [Attribute Error](#attribute-error) 
-* [TemplateDoesNotExist Error](#templatedoesnotexist-error) 
+* [TemplateDoesNotExist Error](#templatedoesnotexist-error)
+* [Forbidden 403](#forbidden-403)
+* [DoesNotExist Error](#doesnotexist-error)
+
 
 -----------------------
 <br>
@@ -92,6 +95,29 @@ INSTALLED_APPS = [
     'django.contrib.admin',
 ]
 ```
+-----------------------
+<br>
+## Forbidden 403
+```
+Forbidden (403)
+CSRF verification failed. Request aborted.
+```
+* You CSRF token is missing or incorrect.
+```html
+<form action="/logout" method="post">
+  {% csrf_token %}
+  <input type="submit" value="Log out">
+</form>
+```
+-----------------------
+<br>
+## DoesNotExist Error
+```
+DoesNotExist at /
+User matching query does not exist.
+```
+* You are probably missing a try/except for a `User.objects.get(id=id)`. Use `User.objects.filter(id=id)` instead and access the first element with [0].
+
 
 <br>
 ---
