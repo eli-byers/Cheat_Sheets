@@ -63,7 +63,7 @@ Bobs-MacBook:Documents bbobs$ ls
 Notes    todo.txt  
 ```
 
-<br>
+
 ---
 
-<center>[Home](README.md) | [Top](#intro-to-terminal) | [Reference](Terminal_Reference.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)</center>
+[Home](README.md) | [Top](#intro-to-terminal) | [Reference](Terminal_Reference.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)
