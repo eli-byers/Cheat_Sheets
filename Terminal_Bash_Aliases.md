@@ -70,6 +70,6 @@ alias bp='vim ~/.bash_profile'
 alias rb='source ~/.bash_profile'
 ```
 
-<br>
+
 ---
-<center>[Home](README.md) | [Top](#bash-aliases) | [Intro](Terminal_Intro.md) | [Reference](Terminal_Reference.md) | [Vim](Terminal_Vim.md)</center>
+[Home](README.md) | [Top](#bash-aliases) | [Intro](Terminal_Intro.md) | [Reference](Terminal_Reference.md) | [Vim](Terminal_Vim.md)
