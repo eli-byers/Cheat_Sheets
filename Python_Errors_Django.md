@@ -11,7 +11,7 @@
 
 
 -----------------------
-<br>
+
 ## Import Error
 
 ```bash
@@ -24,21 +24,21 @@ ImportError: No module named apps
 touch apps/__init__.py
 ```
 -----------------------
-<br>
+
 ```bash
 ImportError: No module named urls
 ```
 * You either misspelled your file/location or did not create it.
 
 -----------------------
-<br>
+
 ```bash
 ImportError: No module named APPdjango.contrib
 ```
 * You are missing a comma in `INSTALLED_APPS` in your settings.py file.
 
 -----------------------
-<br>
+
 ## Name Error
 
 ```bash
@@ -50,7 +50,7 @@ NameError: name 'include' is not defined
 from django.conf.urls import url, include
 ```
 -----------------------
-<br>
+
 
 ```bash
 NameError: name 'views' is not defined
@@ -61,7 +61,7 @@ NameError: name 'views' is not defined
 from . import views
 ```
 -----------------------
-<br>
+
 ## Attribute Error
 
 ```bash
@@ -73,8 +73,9 @@ def index(request):
   pass
 ```
 -----------------------
-<br>
+
 ## TemplateDoesNotExist Error
+
 ```
 TemplateDoesNotExist at /
 ```
@@ -98,6 +99,7 @@ INSTALLED_APPS = [
 -----------------------
 <br>
 ## Forbidden 403
+
 ```
 Forbidden (403)
 CSRF verification failed. Request aborted.
@@ -110,8 +112,9 @@ CSRF verification failed. Request aborted.
 </form>
 ```
 -----------------------
-<br>
+
 ## DoesNotExist Error
+
 ```
 DoesNotExist at /
 User matching query does not exist.
@@ -119,6 +122,6 @@ User matching query does not exist.
 * You are probably missing a try/except for a `User.objects.get(id=id)`. Use `User.objects.filter(id=id)` instead and access the first element with [0].
 
 
-<br>
+
 ---
-<center>[Home](README.md) | [Top](#django-errors)</center>
+[Home](README.md) | [Top](#django-errors)
