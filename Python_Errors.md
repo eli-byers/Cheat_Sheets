@@ -112,4 +112,4 @@ else:
 
 
 ---
-<center>[Home](README.md) | [Top](#python-errors) </center>
+[Home](README.md) | [Top](#python-errors)
