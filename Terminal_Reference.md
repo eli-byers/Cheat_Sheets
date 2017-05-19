@@ -4,7 +4,7 @@ To learn more about any specific command use the ```man``` command in your termi
 If you are new to Terminal check out the [Terminal Intro](Terminal_Intro.md).
 
 
-###Table of Contents
+### Table of Contents
 * [Files & Directories](#files--directories)
 	* [List Contents](#list-contents-ls)
 	* [Print Working Directory](#print-working-directory-pwd)
@@ -15,7 +15,7 @@ If you are new to Terminal check out the [Terminal Intro](Terminal_Intro.md).
 	* [Move & Rename](#move--rename-mv)
 	* [Delete](#delete-rm)
 
-<br>
+
 ## Files & Directories
 
 ### Directories
@@ -90,7 +90,7 @@ A ```note.txt``` file on your Desktop has a path something like this: ```/Users/
 	$ touch ~/Desktop/note.txt		# creats note.txt on your desktop
 	```
 
-<br>
+
 ## Editing
 We often have the need to move, rename, or delete some file or derectory. The commands that do this work the same for files and directories alike.
 
@@ -122,7 +122,6 @@ We often have the need to move, rename, or delete some file or derectory. The co
 	```
 
 
-<br>
 ---
-<center>[Home](README.md) | [Top](#terminal-reference) | [Intro](Terminal_Intro.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)</center>
+[Home](README.md) | [Top](#terminal-reference) | [Intro](Terminal_Intro.md) | [Vim](Terminal_Vim.md) | [Bash Aliases](Terminal_Bash_Aliases.md)
 
