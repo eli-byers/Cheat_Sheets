@@ -1,6 +1,6 @@
 # Bash Aliases
 
-###Table of Contents
+### Table of Contents
 * [Setup](#setup)
 * [How they work](#how-they-work)
 * [Examples](#examples)
