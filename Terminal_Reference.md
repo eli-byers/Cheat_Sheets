@@ -29,7 +29,6 @@ The most common thing in a computer is a file. There are sound files, image file
 A ```note.txt``` file on your Desktop has a path something like this: ```/Users/yourusername/Desktop/note.txt```. It starts at root, ```/```, and shows the higherarchy of folders the file is in, finally ending with ```/filename.extension```. With this path you can point directly to that file from anywhere in the computer.
 
 
--
 ### List Contents: ```ls```
 * When we are is a directory we often want to see the contents of that directory. Here are a few of the most common ways to list the items in the current directory.
 
@@ -94,7 +93,6 @@ A ```note.txt``` file on your Desktop has a path something like this: ```/Users/
 ## Editing
 We often have the need to move, rename, or delete some file or derectory. The commands that do this work the same for files and directories alike.
 
--
 
 ### Move & Rename: ```mv```
 * The move command will move a file from one location to another, and remove the original. If you move a file to the same directory as it is currently in it will simplally rename it.
