@@ -1,7 +1,7 @@
 # Atom Hotkeys
 These work on mac in Atom. This is not a complete list at all, just a small set of tools that can speed up your deveopment. [Here](https://github.com/nwinkler/atom-keyboard-shortcuts) is a more complete list of shortcuts.
 
-###Table of Contents
+### Table of Contents
 * [Formating](#formating)
 * [Cursor](#cursor)
 * [Find / Select](#find--select)
@@ -55,7 +55,7 @@ These work on mac in Atom. This is not a complete list at all, just a small set 
 | To end of line | &#x2303; + k            | Delete from the cursor to the end of the current line. |
 | Whole line     | &#x2303; + &#x21E7; + K | Delete the whole line |
 
-<br>
+
 ---
-<center> [Home](README.md) | [Top](#atom-hotkeys) | [Packages](Atom_Packages.md) </center>
+[Home](README.md) | [Top](#atom-hotkeys) | [Packages](Atom_Packages.md)
 
