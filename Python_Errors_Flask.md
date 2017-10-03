@@ -3,4 +3,4 @@ Coming Soon
 
 <br>
 ---
-<center>[Home](README.md) | [Top](#flask-errors)</center>
+[Home](README.md) | [Top](#flask-errors)
