@@ -9,7 +9,7 @@
 * [Attribute Error](#attribute-error) 
 
 
-## Vanila Python
+## Vanilla Python
 
 Some of these errors can be easily seen in your python IDE by running code after the ```>>>```. Activate your IDE by entering ```python``` in your terminal.
 
